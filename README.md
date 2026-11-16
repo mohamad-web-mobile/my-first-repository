@@ -22,5 +22,7 @@ I am an aspiring Web & Mobile Developer.
 - php
 - mysql
 ## My Git Practice
+## Learning Progress
 
+I have successfully learned my first Git workflow.
 I am learning Git and GitHub step by step.
